@@ -1,0 +1,20 @@
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+C:\Users\Professor\Desktop\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+D:\Professor\Modular\TP - Guilherme\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
